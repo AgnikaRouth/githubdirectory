@@ -1,5 +1,5 @@
 # Github Directory
-# Project Link : [Frontend-Bootstrap](https://githubdirectory.netlify.app)
+# Project Link : [Github-Directory](https://githubdirectory.netlify.app)
 
 
 ## Project Features :
